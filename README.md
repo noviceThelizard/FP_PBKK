@@ -1,1 +1,1 @@
-masukan di httdoc
+masukan di httdoc/codeigniter
